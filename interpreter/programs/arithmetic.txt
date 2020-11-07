@@ -1,0 +1,6 @@
+x = 1 + 2
+print(x)
+print(x * 3)
+y = 10 - x
+n = 0
+print(x / 3 + y * 2)
